@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagBank", "PagBank.csproj", "{D9CF8B51-B3A7-4ABE-8736-B549AB1B30D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagBanTest", "..\PagBanTest\PagBanTest.csproj", "{0CDB5AFB-FD2F-4321-98A3-9540473EE8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CF8B51-B3A7-4ABE-8736-B549AB1B30D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CF8B51-B3A7-4ABE-8736-B549AB1B30D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CF8B51-B3A7-4ABE-8736-B549AB1B30D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CF8B51-B3A7-4ABE-8736-B549AB1B30D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDB5AFB-FD2F-4321-98A3-9540473EE8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDB5AFB-FD2F-4321-98A3-9540473EE8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDB5AFB-FD2F-4321-98A3-9540473EE8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDB5AFB-FD2F-4321-98A3-9540473EE8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3DCF037-A0BF-4879-AEFA-72B9F4BCB980}
+	EndGlobalSection
+EndGlobal
